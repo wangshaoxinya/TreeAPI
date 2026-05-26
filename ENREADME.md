@@ -1,4 +1,4 @@
-README.md
+EDREADME.md
 TreeAPI
 Lightweight WisdomTree Study API Automation Tool
 A simple, lightweight API interface integration project for daily learning auxiliary operations. Batch obtain course information, homework data, school information and complete task processing based on official interface requests.
