@@ -37,6 +37,7 @@ TreeAPI 整合了智慧树常用网关接口，通过标准 HTTP 请求实现学
 - studentExamId：学生作业唯一ID
 - schoolId：学校ID
 - courseId：课程ID
+  
 🔄 标准调用流程
 1. 调用【获取用户SL密钥】接口，获取服务端核心密钥参数
 2. 调用【获取学校信息】接口，拿到当前账号对应的 schoolId
