@@ -32,9 +32,9 @@ TreeAPI 整合了智慧树常用网关接口，通过标准 HTTP 请求实现学
 请求方式：POST
 接口说明：解析作业题目详情，支持提交作业答案，完成作业任务处理
 必填请求参数：
-- recruitId：招生编码
-- examId：考试作业ID
-- studentExamId：学生作业唯一ID
+- recruitId：
+- examId：
+- studentExamId：
 - schoolId：学校ID
 - courseId：课程ID
   
