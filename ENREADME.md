@@ -37,12 +37,7 @@ Required Params：
 - studentExamId
 - schoolId
 - courseId
-🔄 Standard Call Flow
-1. Call Get User SL Key to obtain key parameters
-2. Call Get School Info to get schoolId
-3. Call Get Course Info to get courseId / recruitId
-4. Call Get Homework List to get examId / studentExamId
-5. Call Submit Homework to complete task processing
+
 ⚠️ Notes
 - All interfaces require complete request headers, cookies and token authentication
 - Interface failure may be caused by invalid parameters, expired tokens or official interface updates
