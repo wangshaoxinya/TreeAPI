@@ -31,6 +31,10 @@ TreeAPI 整合了智慧树常用网关接口，通过标准 HTTP 请求实现学
 接口地址：https://studentexam-api.zhihuishu.com/studentExam/gateway/t/v1/student/doHomework
 请求方式：POST
 接口说明：解析作业题目详情，支持提交作业答案，完成作业任务处理
+6.保存地址：https://studentexam-api.zhihuishu.com/studentExam/gateway/t/v1/answer/saveStudentAnswer
+  请求方式：post
+7.提交地址：https://studentexam-api.zhihuishu.com/studentExam/gateway/t/v1/answer/submit
+  请求方式：post
 # 必填请求参数：
 - recruitId：
 - examId：
